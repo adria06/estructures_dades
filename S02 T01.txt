@@ -1,0 +1,3 @@
+S02 T01 Estructura de dades
+
+https://github.com/adria06/estructures_dades.git
